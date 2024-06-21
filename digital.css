@@ -1,0 +1,68 @@
+.ex1{
+	padding:70px;
+	color: skyblue ;
+	text-align:center;
+	border:70px;
+	margin: 5px 0 22px 0;
+   }
+
+.ex1{
+		padding:16px;
+		background-color: white
+		
+	}
+input[type=text], input[type=password], input[type=digits]
+{
+	width: 100px;
+	padding: 15px;
+	display: inline-block;
+	border: inset;
+	text-align: center;
+}
+.sregister
+ {
+   background-color:skyblue;
+   color: #000000;
+   padding:16px 20px;
+   margin: 8px 0;
+   cursor: pointer;
+   width: 88%;
+   opacity: 0.10
+
+}
+input[type=text]
+{
+	width: 88%;
+	margin: 8px 0;
+	display: inline-block;
+	padding: 14px 17px;
+	border: inset
+}
+input[type=password]
+{
+	width: 87%;
+	margin: 8px 0;
+	display: inline-block;
+	padding: 14px 17px;
+	border: inset;
+
+}
+
+input[type=digits]
+{
+	width: 86%;
+	margin: 8px 0;
+	display: inline-block;
+	padding: 14px 17px;
+	border: inset;
+}
+body{
+	font-family: Arial;
+	background-color: skyblue;
+}
+div{
+	margin: auto;
+	width: 50%;
+	border: 3px blue;
+	padding: 10px;
+}
